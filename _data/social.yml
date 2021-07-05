@@ -3,7 +3,5 @@
 
 
 social:
-  - {icon: 'github', type: "brand", link: 'https://www.github.com/HyeSooYoon'}
-    
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "/feed.xml"}
+  - {icon: 'github', type: "brand", link: 'https://www.github.com/HyeSooYoon'} 
+  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'} 
