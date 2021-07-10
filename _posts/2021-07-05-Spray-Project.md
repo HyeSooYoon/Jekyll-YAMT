@@ -9,13 +9,17 @@ description: "SPRAY 프로젝트"
 _**SPRAY 프로젝트란?<br>**_
 파운데이션, 아이라이너 등 코스메틱 화장품을 대상으로 하여 회원들간 투표를 통해 최고의 제품을 선정하여 공유하는 커뮤니티 사이트 입니다. 해당 순위는 일주일간 유지되며 주초에 투표를 재개합니다.
 
+_**회원가입 화면**_
+<img src="/showRoom/assets/img/20210705/emailcert.PNG"> 
+회원가입 요청시 입력한 이메일 주소로 임의의 난수 정보를 전송하여 해당 값을 입력하므로서 입력한 이메일이 실제로 존재하는지 인증 과정을 거칩니다. 
+
+<img src="/showRoom/assets/img/20210705/emailcertAlert.PNG"> 
+
+<img src="/showRoom/assets/img/20210705/emailcertConfirm.PNG"> 
+
 _**로그인 화면**_
 <img src="/showRoom/assets/img/20210705/login.PNG"> 
 로그인 폼 화면 입니다. 휴대폰 번호를 입력하여 로그인이 가능하며, 로그인 시도시 회원를 여부 확인후 Spring Security 를 통해 사용자의 인증과 로그인 권한을 부여 합니다.
-
-_**회원가입 화면**_
-<img src="/showRoom/assets/img/20210705/join.PNG"> 
-회원가입 요청시 휴대폰 번호 무결성 검증을 거친뒤 회원 가입 처리를 합니다. 
 
 _**메인 화면**_
 <img src="/showRoom/assets/img/20210705/main.PNG"> 
