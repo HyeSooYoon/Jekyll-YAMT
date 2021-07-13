@@ -36,6 +36,13 @@ _**게시글 목록**_
 
 _**게시글 내용1**_
 <img src="/showRoom/assets/img/20210705/content1.PNG"> 
+게시글의 하단 '유사 제품 보러 가기' 를 클릭하여 네이버 쇼핑내 가장 최근에 올라온 제품 정보를 확인할 수 있습니다. 
+
+<img src="/showRoom/assets/img/20210705/contentSimilar.PNG"> 
+네이버 쇼핑내 업로드된 제품의 이름과 가격을 확인할 수 있습니다. 'Buy Now' 를 클릭시 해당 제품을 살수 있는 페이지로 이동하게 됩니다. 
+
+<img src="/showRoom/assets/img/20210705/contentSimilar2.PNG"> 
+
 
 _**게시글 내용2**_
 <img src="/showRoom/assets/img/20210705/content2.PNG"> 
