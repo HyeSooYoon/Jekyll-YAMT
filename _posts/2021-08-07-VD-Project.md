@@ -9,7 +9,7 @@ description: "VD 프로젝트"
 _**VD 프로젝트란?<br>**_
 유튜브, 트위치, 카카오tv 등 동영상 플렛폼 환경에서 통합 검색이 가능한 사이트 입니다. 
 
-_**회원가입 화면**_
+_**동영상 조회 결과 화면**_
 <img src="/showRoom/assets/img/20210807/main.PNG"> 
 검색어를 통해 조회된 동영상들을 Youtube, Twitch 순서로 보여줍니다. 
 <br>
