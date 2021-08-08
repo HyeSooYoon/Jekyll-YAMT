@@ -23,8 +23,8 @@ Vue.js 2.6.14<br>
 <br>
 <br>
 _API<br>_
-Youtube API
-Twtich API
+Youtube API<br>
+Twtich API<br>
 <br>
 <br>
 _Framework<br>_
